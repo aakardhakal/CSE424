@@ -1,17 +1,17 @@
 Link to unlisted YouTube video:
-https://youtu.be/5Rb01NQ3p24
+https://youtu.be/WxogfjGc4vY
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1GrcUECCJZXx3anfmtnYtcbGpl11BDG3mib4Rxn_F1xM/edit?usp=sharing
+https://docs.google.com/presentation/d/1hMmzibe0vt0AC9l8q2O_YTezem5l2kzBMktrIeFHN2o/edit?usp=sharing
 
-Paper title:
-End-to-End Optical Character Recognition for Bengali Handwritten Words
+Paper title: OCR Improves Machine Translation for Low-Resource Languages
+
 
 Link to the paper:
-https://arxiv.org/pdf/2105.04020.pdf
+https://www.google.com/url?client=internal-element-cse&cx=000299513257099441687:fkkgoogvtaw&q=https://aclanthology.org/2022.findings-acl.92.pdf&sa=U&ved=2ahUKEwjagZbhyO39AhUH7jgGHRaUBPgQFnoECAAQAg&usg=AOvVaw12xKC9ac1IziopUIXc_0ns
 
 Group Number:
 04
 
 Individual Submitter:
-22241038 S M Rakib Hasan
+20201203 Aakar Dhakal
